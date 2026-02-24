@@ -1,5 +1,6 @@
 # Time Series Analysis in Network Traffic: Anomaly Detection for Cybersecurity
 This repository contains the experimental code and analysis notebooks for my B.Sc. Computer Science Thesis at the University of Crete.
+📄 **[Read the Full Thesis PDF Here](./Loukas_Georgiou_Thesis.pdf)**
 
 ## 📌 Project Overview
 Accurate forecasting of network traffic is a crucial component of modern cybersecurity. This project evaluates the efficacy of Deep Learning methods (specifically Recurrent Neural Networks) for unsupervised anomaly identification in large-scale academic networks. 
