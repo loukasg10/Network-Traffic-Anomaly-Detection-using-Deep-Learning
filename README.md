@@ -26,7 +26,7 @@ The experiments in this repository utilize the **CESNET-TimeSeries24** dataset. 
 * `LSTM_clustered.ipynb`
 * `Model_Results_Analysis.ipynb`
 * `Institutions.ipynb`
-* `Mean_evaluation.ipynb`
+* `Mean_Evaluation.ipynb`
 
 
 ## 💻 Tech Stack
