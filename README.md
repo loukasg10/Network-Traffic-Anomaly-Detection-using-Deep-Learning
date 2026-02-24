@@ -19,7 +19,15 @@ The experiments in this repository utilize the **CESNET-TimeSeries24** dataset. 
 3. **Dynamic Anomaly Detection:** Implementing a rolling $3\sigma$ threshold allowed the system to successfully flag both volumetric DDoS-like spikes and hidden protocol-level outages.
 
 ## 🛠️ Repository Contents
-* `Thesis_Code.ipynb` The main Jupyter Notebook containing the data preprocessing, model training pipelines (using the `darts` library), evaluation metrics, and anomaly detection visualizations.
+* `Clustering_selection.ipynb`  
+* `ETS_evaluation.ipynb`
+* `Feature_Analysis.ipynb`
+* `GRU_subnets.ipynb`
+* `LSTM_clustered.ipynb`
+* `Model_Results_Analysis.ipynb`
+* `Institutions.ipynb`
+* `Mean_evaluation.ipynb`
+
 
 ## 💻 Tech Stack
 * Python 3.x
