@@ -35,4 +35,4 @@ The experiments in this repository utilize the **CESNET-TimeSeries24** dataset. 
 * Darts (Time Series Machine Learning Library)
 * Pandas & NumPy
 * Matplotlib & Seaborn
-* * **[Darts]([https://unit8co.github.io/darts/](https://github.com/unit8co/darts))**: A Python library for user-friendly time series forecasting and anomaly detection. Used as the core framework for building, training, and evaluating the deep learning models (GRU/LSTM).
+* **[Darts](https://github.com/unit8co/darts)**: A Python library for user-friendly time series forecasting and anomaly detection. Used as the core framework for building, training, and evaluating the deep learning models (GRU/LSTM).
